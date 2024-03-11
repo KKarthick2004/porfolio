@@ -1,0 +1,134 @@
+body{
+    background-color:#f5f5f5;
+}
+.body #myimage{
+   margin-top: 20px;
+    border-radius:50%;
+    margin-left: 40px;
+    height:120px;
+    width: 120px;
+}
+.body h4{
+    color:white;
+    margin-top:15px;
+    margin-left: 60px;
+    overflow: hidden;
+}
+.body{
+    width:17%;
+    height:100%;
+    background-color: rgb(5, 5, 7);
+    top:0;
+    left:0;
+    position: fixed;
+}
+.body img{
+    width:15%;
+    border-radius:50%;
+    margin-left:15px;
+    margin-bottom:40px;
+}
+.g{
+    border:3px solid white;
+    border-radius:50%;
+   
+}
+#g{
+    width:12%;
+}
+
+a{
+    color:white;
+    text-decoration:none;
+}
+ul a:hover{
+    border-bottom:2px solid white;
+    border-width:5%;
+}
+li{
+    color: white;
+    margin-top:30px;
+}
+.class{
+    display: inline;
+}
+#name{
+    color:rgb(10, 7, 7);
+    margin-left:600px;
+    margin-top:300px;
+}
+#purpose{
+    color:rgb(0, 0, 0);
+    margin-left:600px;
+    border-bottom:2px solid rgb(8, 8, 8);
+    width:8%;
+}
+.cl h2{
+    margin-left:600px;
+    margin-top:350px;
+    margin-bottom:90px;
+}
+
+#first{
+    margin-left:300px;
+
+}
+.whatdo h2{
+    margin-top:90px;
+    margin-left:250px;
+    border-left:4px solid black;
+    padding-left:5px;
+}
+.whatdo #p1{
+    margin-top:20px;
+    margin-left:300px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.whatdo #p2{
+    margin-top:2px;
+    margin-left:300px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#fir.skills{
+    width:250px;
+    height:300px;
+    background-color: white;
+    margin-left: 300px;
+    margin-top:70px;
+    border:1px solid black;
+    border-radius:16px;
+    margin-bottom:30px;
+}
+.skills{
+    width:250px;
+    height:300px;
+    background-color: white;
+    margin-left: 30px;
+    margin-top:70px;
+    border:1px solid black;
+    border-radius:16px;
+}
+.skills:hover{
+    box-shadow: 6px 6px 6px 6px rgb(79, 82, 79);
+    border:1px solid blue;
+}
+#fir.skills:hover{
+    border:1px solid blue;
+}
+.skillbox{
+    display:flex;
+}
+.skills img {
+    margin-left:80px;
+}
+.skills p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left:30px;
+}
+
+
+
+
+
+
+
